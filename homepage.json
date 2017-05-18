@@ -1,7 +1,7 @@
 {
 	"image": "images/photo.jpg",
 	"name": "Grumpy Cat",
-	"description": "\n\t<strong>Tardar Sauce</strong> (born April 4, 2012), commonly known as <strong>Grumpy Cat</strong>, is a cat Internet and media personality and actress.\n\tShe is known for her permanently \"grumpy\" facial appearance, which is caused by an <a href=\"https://en.wikipedia.org/wiki/Malocclusion\" title=\"Malocclusion\">underbite</a> and <a href=\"https://en.wikipedia.org/wiki/Dwarf_cat\" title=\"Dwarf cat\">feline dwarfism</a>.\n",
+	"description": "<strong style=\"font-size: 14.416px;\">Tardar Sauce</strong><span style=\"font-size: 14.416px;\">&nbsp;(born April 4, 2012), commonly known as&nbsp;</span><strong style=\"font-size: 14.416px;\">Grumpy Cat</strong><span style=\"font-size: 14.416px;\">, is a cat Internet and media personality and actress. She is known for her permanently \"grumpy\" facial appearance, which is caused by an&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Malocclusion\" title=\"Malocclusion\" data-mce-href=\"https://en.wikipedia.org/wiki/Malocclusion\" style=\"font-size: 14.416px;\">underbite</a><span style=\"font-size: 14.416px;\">&nbsp;and&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Dwarf_cat\" title=\"Dwarf cat\" data-mce-href=\"https://en.wikipedia.org/wiki/Dwarf_cat\" style=\"font-size: 14.416px;\">feline dwarfism</a><span style=\"font-size: 14.416px;\">.<br></span><ul><li>This is awesome<strong><br><br><br></strong><strong><br data-mce-bogus=\"1\"></strong></li></ul>",
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat"
